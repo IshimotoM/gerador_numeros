@@ -1,0 +1,31 @@
+{
+  "name": "gerador_numeros",
+  "version": "1.0.0",
+  "description": "App para gerar numeros aleatorios para loteria",
+  "main": "geraNum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IshimotoM/Gerador_Numeros_Apostas.git"
+  },
+  "keywords": [
+    "gerador",
+    "numeros",
+    "apostas",
+    "loteria",
+    "javascript",
+    "node"
+  ],
+  "author": "Bruno Manzini Silva Ishimoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IshimotoM/Gerador_Numeros_Apostas/issues"
+  },
+  "homepage": "https://github.com/IshimotoM/Gerador_Numeros_Apostas#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}
