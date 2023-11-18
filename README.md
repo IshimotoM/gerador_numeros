@@ -1,23 +1,27 @@
-********** APLICATIVO PARA SORTEIO DE NUMEROS PARA LOTERIA / APOSTAS **********
+<h2>****** APLICATIVO PARA SORTEIO DE NÚMERO PARA LOTERIA / APOSTAS ******</h2>
 
-Este aplicativo foi desenvolvido para fazer um sorteio de numeros de forma aleatoria.
+Este aplicativo foi desenvolvido para fazer um sorteio de números de forma aleatória.
 
-O usuario deve, através do terminal: 
-1- Especificar a quantidade de numeros que gostaria de sortear; 
-2- Informar qual o intervalo em que os numeros que deverao ser sorteados;
+O usuário deve, através do terminal:
+<br>
+1- Especificar a quantidade de números que gostaria de sortear; <br>
+2- Informar qual o intervalo em que os números deverão ser sorteados (Ex: De 1 a 60);
 
-Com essas caracteristicas informadas o programa sera capaz de sortear aleatoriamente os numeros, mostrar para o usuario e estipular a probabilidade de re-sorteio desses mesmos numeros.
+Com essas características informadas, o programa será capaz de sortear aleatoriamente os números, mostrar para o usuário e estipular a probabilidade de re-sorteio desses mesmos números.
 
-Obs: O programa nao verifica a ordem de escolha dos numeros, somente quais numeros foram selecionados. (EX: Para o programa a sequencia 1,2,3 / 1,3,2 / 2,1,3 / 2,3,1 / 3,1,2 / 3,2,1 são a mesma coisa.)
+⚠️ Obs.: O programa não verifica a ordem de escolha dos números, somente quais números foram selecionados. <br> (**Ex:** Para o programa, a sequência 1,2,3 / 1,3,2 / 2,1,3 / 2,3,1 / 3,1,2 / 3,2,1 são o mesmo.)<br><br>
 
 ## PARA USAR
 
 Para clonar e executar este repositório você precisará do [Git](https://git-scm.com) e do [Node.js](https://nodejs.org/en/download/) (que vem com o [npm](http://npmjs.com)) instalado no seu computador. 
 
-Após feito o clone do repositorio basta iniciar o terminal, acessar a pasta onde você salvou o arquivo clonado e rodar o comando: 
-node geraNum.js
+Após feito o clone do repositório basta iniciar o terminal, acessar a pasta onde você salvou o arquivo clonado e rodar o comando:
+<br>
+`node geraNum.js`
 
-Espero que você use bem este app! (smile)
-
-Autor: Bruno Manzini Silva Ishimoto;
-Linguagem: JavaScript;
+Espero que você use bem este app! 😄
+##
+<div>
+  <h4>Autor: Bruno Ishimoto;</h4>
+  <h4>Linguagem:<img align="center" alt="Js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></h4>
+</div>
