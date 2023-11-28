@@ -1,6 +1,6 @@
-<h2>****** APLICATIVO PARA SORTEIO DE NÚMERO PARA LOTERIA / APOSTAS ******</h2>
+<h2>****** CÓDIGO PARA SORTEIO DE NÚMEROS PARA LOTERIA / APOSTAS ******</h2>
 
-Este aplicativo foi desenvolvido para fazer um sorteio de números de forma aleatória.
+Este código foi desenvolvido para fazer um sorteio de números de forma aleatória.
 
 O usuário deve, através do terminal:
 <br>
@@ -13,13 +13,13 @@ Com essas características informadas, o programa será capaz de sortear aleator
 
 ## PARA USAR
 
-Para clonar e executar este repositório você precisará do [Git](https://git-scm.com) e do [Node.js](https://nodejs.org/en/download/) (que vem com o [npm](http://npmjs.com)) instalado no seu computador. 
+Para clonar e executar este repositório você precisará do [Git](https://git-scm.com) e do [Node.js](https://nodejs.org/en/download/) (que vem com o [npm](http://npmjs.com)) instalado no seu computador. Além disso, será necessário instalar os módulos npm: [readline-sync](https://www.npmjs.com/package/readline-sync) & [colors](https://www.npmjs.com/package/colors).
 
 Após feito o clone do repositório basta iniciar o terminal, acessar a pasta onde você salvou o arquivo clonado e rodar o comando:
 <br>
 `node geraNum.js`
 
-Espero que você use bem este app! 😄
+Espero que você use bem este código! 😄
 ##
 <div>
   <h4>Autor: Bruno Ishimoto;</h4>
